@@ -112,7 +112,7 @@ Here are some of my personal and collaborative projects that demonstrate my skil
 
 ---
 
-![Code GIF]([https://media.giphy.com/media/7jo2fpIGusCha/giphy.gif?cid=ecf05e478jztoahwnd4frmqiwaqhsc7318ige2mkjiolfo86&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVuY3J0NWN1OXdsbTZjMGlvbXppY3cwY2hwM3p5Zm1yMmJiaHE2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OOwBcRtJ7DSMM/giphy.gif))
+![Code GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVuY3J0NWN1OXdsbTZjMGlvbXppY3cwY2hwM3p5Zm1yMmJiaHE2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OOwBcRtJ7DSMM/giphy.gif)
 
 **Thank you for checking out my profile!** Feel free to explore my repositories and reach out if you're interested in collaboration or just want to chat about tech! 🚀
 
