@@ -6,6 +6,7 @@
 I am a **aspiring Full Stack Developer** with a unique background as a **former Army professional**. After transitioning into tech, I developed strong skills in **backend** and **frontend development**. From **HTML/CSS** to **JavaScript**, **Python**, **C**, and **Go**, I build efficient, scalable applications that solve real-world problems.
 
 I thrive on challenges, working both independently and in teams, and I believe in writing clean, maintainable code.
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=IamMaheshGurung&bg_color=000000&color=00ff00&line=00ff00&point=ff0000&area=true&hide_border=true)
 
 ---
 
