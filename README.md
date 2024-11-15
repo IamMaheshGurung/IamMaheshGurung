@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Mahesh Gurung – Student, Life-long lerner and aspiring Full Stack Developer & Ex-Army Professional 🚀
 
-![Banner]([https://media.giphy.com/media/3o6nV4fA4I4vCq0mxe/giphy.gif](http://disney.tumblr.com/post/141672431647/friday-night-plans))
+![Banner](https://media.giphy.com/media/mguPrVJAnEHIY/giphy.gif)
+
 
 I am a **aspiring Full Stack Developer** with a unique background as a **former Army professional**. After transitioning into tech, I developed strong skills in **backend** and **frontend development**. From **HTML/CSS** to **JavaScript**, **Python**, **C**, and **Go**, I build efficient, scalable applications that solve real-world problems.
 
