@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mahesh Gurung – Student, Life-long lerner and aspiring Full Stack Developer & Ex-Army Professional 🚀
+# 👋 Hello, I'm Mahesh Gurung – Student, Life-long learner and aspiring Full Stack Developer & Ex-Army Professional 🚀
 
 ![Banner](https://media.giphy.com/media/mguPrVJAnEHIY/giphy.gif)
 
