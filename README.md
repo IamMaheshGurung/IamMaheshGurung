@@ -14,25 +14,22 @@ I thrive on challenges, working both independently and in teams, and I believe i
 ## 🚀 About Me
 
 - 💡 **Ex-Army Professional**: Leadership, teamwork, and problem-solving at the core of my approach to software development.
-- 💻 **Full Stack Developer**: Mastering both **Frontend** and **Backend** technologies, including **HTML**, **CSS**, **JavaScript**, **Python**, **C**, and **GoLang**.
-- 🌱 **Learning**: Currently expanding my expertise in **GoLang** for backend microservices and **Cloud Technologies** (AWS/GCP).
-- 🎮 **Game Development Enthusiast**: Passion for creating interactive applications and animations (using **Lua**, **Love2D**, and **GoLang**).
-
----
+- 💻 **Full Stack Developer**: Mastering both **Frontend** and **Backend** technologies, including **HTML**, **CSS**, **JavaScript**, **C**, and **GoLang**.
+- 🌱 **Learning**: Currently expanding my expertise in **GoLang** for backend Development and love how backend works.....
 
 ## 💻 Skills
 
 ### **Frontend** 🖥️
 - **HTML5**: Structuring content with semantic tags.
+- **HTMX**: Simplicity 
 - **CSS3**: Responsive web design (Flexbox, Grid) and animations.
-- **JavaScript**: ES6+ features, **React**, and **Vue.js** for dynamic user interfaces.
+- **JavaScript**: ES6+ features, **React**, and **Next.js** for dynamic user interfaces.
 - **Frameworks**: **Bootstrap** and **TailwindCSS** for fast UI development.
 
 ### **Backend** 🔧
 - **GoLang**: Building efficient and scalable microservices and APIs.
-- **Python**: Web development with **Flask** and **Django**, as well as scripting and automation.
 - **C**: Proficient in system-level programming and memory management.
-- **Databases**: Experience with **MySQL**, **PostgreSQL**, and **MongoDB** for data storage.
+- **Databases**: Experience with **MySQL**, **PostgreSQL** for data storage.
 
 ### **Tools & Technologies** 🛠️
 - **Git & GitHub**: Version control and collaboration.
@@ -53,17 +50,19 @@ Here are some of my personal and collaborative projects that demonstrate my skil
 
    ![Inventory Management GIF](https://media.giphy.com/media/JW60Ndjr5wAdP7QQ3l/giphy.gif)
 
-### 2. **Task Tracker Application**
-   - **Technologies**: Python, Flask, SQLite, HTML, CSS, JavaScript
-   - A web-based task tracker that lets users add, update, and delete tasks.
-   - [GitHub Repository](https://github.com/yourusername/task-tracker)
+### 2. **GHARDAILO**
+   - **Technologies**: Golang, gorrilla mux, postgres, HTMx, tailwind,
+   - **Status**: Almost completed
+   - A web-based rural e-commerce theme for Rural Nepal which is for not so digitally literate people and group based ordering system.
+   - [GitHub Repository](https://github.com/IamMaheshGurung/ghardailo)
 
    ![Task Tracker GIF](https://media.giphy.com/media/3o7qE4d95Ib8sZHv4I/giphy.gif)
 
-### 3. **Personal Portfolio Website**
-   - **Technologies**: HTML, CSS, JavaScript
-   - A personal portfolio to showcase my skills, projects, and experience.
-   - [GitHub Repository](https://github.com/yourusername/portfolio)
+### 3. **New Personal Portfolio Website**
+   - **Technologies**: HTMX, golang fiber, postgres and tailwind css.
+   - **Status**: ongoing
+   - A personal portfolio to showcase my skills, projects, and experience with backend system having admin page in which I will be able to update my learnings and admin page without touching the code.
+   - [GitHub Repository](https://github.com/IamMaheshGurung/NewPortfolio)
 
    ![Portfolio Website](https://media.giphy.com/media/3ohs4kJlvkY57vP19O/giphy.gif)
 
@@ -84,14 +83,17 @@ Here are some of my personal and collaborative projects that demonstrate my skil
    - Collaborated with clients to create customized solutions and iterate on features.
 
 ### **Ex-Army Professional** | *Prior to 2022*
+   - IT support in IA Brigade IT Unit section in Indian Army.
    - Honed leadership, teamwork, and critical thinking skills, applying them to problem-solving in tech.
    - Led and managed teams in high-pressure environments, a mindset I bring to my software development work.
+     
 
 ---
 
 ## 📚 Currently Learning
 
 - **Advanced GoLang**: Delving deeper into Go for microservices and distributed systems.
+- **gRPC Lover**: Trying to learn gRPC Based Backend system
 - **Cloud Development**: Exploring **AWS** and **GCP** for cloud architecture and serverless computing.
 - **DevOps**: Focusing on CI/CD pipelines, Docker, Kubernetes, and infrastructure automation.
 
